@@ -12,7 +12,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://mrneilypops.github.io',
+        url: 'https://mrneilypops.github.io',
         mail: {},
         database: {
             client: 'sqlite3',
